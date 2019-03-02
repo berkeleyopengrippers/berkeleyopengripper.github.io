@@ -7,4 +7,3 @@ order: 7
 
 A single upper link is locked down and connected to an output bar with load cells on either end. Similar to the position bandwidth, a chirp signal is then commanded through each motor to cause alternate rotations from 0.1 to 40Hz.
 
-
