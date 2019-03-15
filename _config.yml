@@ -1,6 +1,7 @@
 remote_theme: brentyi/osa
 
 title: The Blue Gripper
+description: This website is for the paper "Blue Gripper: A Robust, Low-Cost, and Force-Controlled Robot Hand"
 
 matomo_url: brentyi.com/piwik
 matomo_site_id: 3
