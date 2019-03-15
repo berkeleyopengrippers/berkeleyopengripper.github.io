@@ -6,7 +6,7 @@ hide_title: true
 
 ![robot](/assets/images/gripper.JPG)
 
-This is Blue, a low-cost backdrivable 7-DOF robotic manipulator. This website is a companion to our paper (submitted to ICRA/RA-L 2019), and is intended to provide more detail into the technical capabilities of the robot as well as the metrics we used to characterize its performance.
+This is Blue, a low-cost and robust gripper for unstructured environments. The paper detailing the gripper has been submitted to CASE 2019 and this website provides open source access to the Blue gripper for the rest of the robotics community. Along with Blue, the ball-screw version (with more backdrivability for force control) and the strain gauge version (for force sensing) are also available.
 
 <!-- [Link to the paper:](<iframe src="https://drive.google.com/file/d/1IIJE8LaXqsBkqYoe7xZxhNppKoo9f9eV/preview"></iframe>). -->
 
