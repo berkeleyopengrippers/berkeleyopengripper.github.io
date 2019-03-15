@@ -1,6 +1,7 @@
 remote_theme: brentyi/osa
 
 title: The Blue Gripper
+description: test test test
 
 matomo_url: brentyi.com/piwik
 matomo_site_id: 3
