@@ -1,10 +1,8 @@
 ---
-title: Manipulation Task and Experimental Benchmarking
+title: Fine Manipulation
 order: 1
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/idzpTxySajE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o5cNyzfPPPU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FHdgulcmOcc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-This is the video of the gripper in action and the experimental benchmarking test.
+This is the video of the gripper demonstrating fine manipulation by picking up screws.
