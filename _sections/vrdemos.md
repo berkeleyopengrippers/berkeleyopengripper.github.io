@@ -1,6 +1,6 @@
 ---
-title: VR Demos
-order: 3
+title: CHANGE
+order: 4
 ---
 
 A Virtual Reality system was developed using the HTC Vive and interfaced with our robot over ethernet. We developed an inverse dynamics solver that translates the 6-DoF controller pose to a 7-DoF robot pose that prioritizes 'elbows out'.
