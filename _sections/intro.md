@@ -10,9 +10,3 @@ This is Blue, a low-cost and robust gripper for unstructured environments. The p
 
 <!-- [Link to the paper:](<iframe src="https://drive.google.com/file/d/1LC0DirgkaY__70R6G0JBzAUYHXj9ZpEU/preview"></iframe>). -->
 
-
-<!-- # Summary
-{: #summary }
-<iframe src="https://www.youtube.com/embed/G4QQ8Mfjb_g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-Quick highlight reel for Blue!
--->
