@@ -1,6 +1,6 @@
 ---
 title: Manipulation Task and Experimental Benchmarking
-order: 1
+order: 7
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/idzpTxySajE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
