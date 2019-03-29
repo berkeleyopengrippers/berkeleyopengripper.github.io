@@ -1,5 +1,5 @@
 ---
-title: OPEN SOURCE CAD FILES
+title: Open source cad files
 order: 4
 ---
 
