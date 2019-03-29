@@ -1,6 +1,6 @@
 ---
-title: Open source cad files
+title: Open Source Cad Files
 order: 4
 ---
 
-Coming soon!
+Coming soon
