@@ -3,4 +3,4 @@ title: Open Source Cad Files
 order: 4
 ---
 
-Coming soon
+Lead Screw Gripper: https://github.com/berkeleyopengrippers/LeadScrewGripperCAD
